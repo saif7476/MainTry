@@ -5,6 +5,8 @@ public class Class1 {
 		
 		System.out.println("This is my class");
 		System.out.println("This is my class2");  
+		System.out.println("This is my class3");  
+
 	}
 
 }
